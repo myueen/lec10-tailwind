@@ -9,7 +9,9 @@
         "vscode": {
             "extensions": [
                 "dbaeumer.vscode-eslint",
-                "esbenp.prettier-vscode"
+                "esbenp.prettier-vscode",
+                "bradlc.vscode-tailwindcss",
+                "austenc.tailwind-docs"
             ],
             "settings": {
                 "editor.formatOnSave": true,
